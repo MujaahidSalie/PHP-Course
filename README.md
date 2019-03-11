@@ -1,2 +1,2 @@
 # PHP-Course
-PHP Crash Course
+All PHP lessons follow me on instagram @muji.codes
