@@ -1,0 +1,20 @@
+PHP 
+
+Create a MySQL Table in Database
+
+create table posts (
+ id int(11) not null PRIMARY KEY AUTO_INCREMENT,
+ subject varchar(128) not null,
+ content varchar(1000) not null,
+ date datetime not null
+
+);
+
+
+MySQL Insert Into Database 
+
+INSERT INTO posts (subject, content, date) VALUES ('Tis is the subject', Phasellus leo lectus, facilisis et nisi in, sagittis rutrum arcu. Cras id lectus sit amet ante eleifend bibendum. Suspendisse vel congue est. Nam sagittis et ligula quis varius. Donec ac libero iaculis, lobortis nulla quis, dapibus libero. Praesent urna velit, rhoncus sit amet ultricies ac, cursus at dui. Ut quis viverra risus. ,'2019-11-14');
+
+
+
+
